@@ -12,7 +12,7 @@ public class MainE6 {
 		
 		for (int Fila = 1; Fila <= N; Fila = Fila + 1) {
 			
-			for (int ast=N; ast>=Fila; ast=ast-1){
+			for (int ast=N; ast>=Fila; ast=ast-1) {
 				System.out.print("*");
 			}
 			System.out.println();	
