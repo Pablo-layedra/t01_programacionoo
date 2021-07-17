@@ -6,7 +6,7 @@ public class MainE6 {
 	
    public static void main(String[] args) {   
 	   
-	   //Buen trabajo//
+	   //Buen trabajo co//
 	   
 		System.out.println("Ingrese número de filas:");
 		Scanner teclado=new Scanner(System.in);
