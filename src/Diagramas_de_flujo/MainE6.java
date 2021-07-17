@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class MainE6 {
 	
-   public static void main(String[] args) {
-		
+   public static void main(String[] args) {   
+	   
+	   //El programa si corre, buen trabajo//
+	   
 		System.out.println("Ingrese número de filas:");
 		Scanner teclado=new Scanner(System.in);
 		int N= teclado.nextInt();
