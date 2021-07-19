@@ -96,7 +96,7 @@ public class MainTG1 {
 						}else{
 							if (D<=Da){
 								int Ae=(Aa-A-1);
-								int Me=(9+Ma);
+								int Me=(10+Ma-1);
 								int De=(Da-D);
 								System.out.println("La edad es:"+Ae+"años;"+Me+"meses;"+De+"días.");
 							}else{
