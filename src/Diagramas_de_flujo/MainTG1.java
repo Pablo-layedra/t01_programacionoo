@@ -685,8 +685,8 @@ public class MainTG1 {
 							    }			 
 						   }	          
 						 }		    	
-					 } 
-				 }
+			     	 } 
+			   }
 		 }
 	 }
 
