@@ -6,11 +6,13 @@ package Diagramas_de_flujo;
 /**
  * @author Pablo
  *
+
  */
+
 import java.util.Scanner;
 public class MainE1 {
 
-	public static void main(String[]arg) {
+	public static void main(String[]args) {
 		System.out.println("Ingresar el valor del sueldo");
 		Scanner teclado=new Scanner(System.in);
 		int S= teclado.nextInt();
@@ -22,5 +24,5 @@ public class MainE1 {
 			int B=0;
 			System.out.println("Su bonificación es"+B);
 		}
-	}  
+	}
 }
