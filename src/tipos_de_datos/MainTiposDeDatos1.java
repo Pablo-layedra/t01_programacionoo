@@ -11,7 +11,7 @@ public class MainTiposDeDatos1 {
 		float Sueldo= 150.25F;
 		double CuentaB = 156700.35; 
 		char OpcionMenu='A';
-		boolean resultado = true; 
+		boolean resultado = false; 
 		
 	}
 }
