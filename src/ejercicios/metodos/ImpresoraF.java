@@ -12,7 +12,7 @@ public String Color;
 		System.out.println("Inventario tornillos: ");
 		System.out.println(datos_imprimir);
 		System.out.println("**********************");
-		System.out.println("Pie de firma");
+		System.out.println("Pie de pagina");
 	
 	}
 
