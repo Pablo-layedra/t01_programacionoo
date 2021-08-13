@@ -9,10 +9,10 @@ public String Color;
 	public void Imprimir(String datos_imprimir, int TamLetra) {
 		System.out.println("Logo Ferretería");
 		System.out.println("**********************");
-		System.out.println("Inventario tornillos subtotal: ");
+		System.out.println("Inventario tornillos: ");
 		System.out.println(datos_imprimir);
 		System.out.println("**********************");
-		System.out.println("Pie de firma");
+		System.out.println("Pie de pagina");
 	
 	}
 
