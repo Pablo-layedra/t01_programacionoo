@@ -13,8 +13,6 @@ public class BoletoDeAvión extends Pasajero {
 		David.puerta_de_entrada="";
 		David.asiento="";
 		David.clase="";
-		David.PrecioBoleto="";
-		//Atributo privado, no se puede mostrar
 		
 	}
 
