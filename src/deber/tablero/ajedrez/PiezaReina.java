@@ -1,6 +1,6 @@
 package deber.tablero.ajedrez;
 
-public class PiezaReina extends AjedrezPiezas {
+public class PiezaReina extends PiezasTablero {
 
 	private String color;
 

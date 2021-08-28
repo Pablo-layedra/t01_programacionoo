@@ -87,7 +87,7 @@ public class MainAjedrez {
 		reyBlanco.setColor("Negro");
 		
 		
-		AjedrezPiezas Tablero[][]=new AjedrezPiezas [8][8];
+		PiezasTablero Tablero[][]=new PiezasTablero [8][8];
 		Tablero[0][0]=torreNegro;
 		Tablero[0][1]=caballoNegro;
 		Tablero[0][2]=alfilNegro;

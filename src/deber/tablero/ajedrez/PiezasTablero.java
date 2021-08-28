@@ -1,6 +1,6 @@
 package deber.tablero.ajedrez;
 
-public abstract class AjedrezPiezas {
+public abstract class PiezasTablero {
 	
 	
 }
