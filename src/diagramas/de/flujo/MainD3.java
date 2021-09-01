@@ -1,4 +1,4 @@
-package Diagramas_de_flujo;
+package diagramas.de.flujo;
 
 import java.util.Scanner;
 public class MainD3 {

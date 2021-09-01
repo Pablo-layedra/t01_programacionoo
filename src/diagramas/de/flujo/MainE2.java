@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Diagramas_de_flujo;
+package diagramas.de.flujo;
 
 /**
  * @author Pablo
