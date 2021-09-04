@@ -1,4 +1,4 @@
-package prueba.tres;
+package prueba.dos;
 
 import java.util.Scanner;
 
